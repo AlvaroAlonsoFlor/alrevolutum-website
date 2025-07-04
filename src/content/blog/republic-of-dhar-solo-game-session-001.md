@@ -16,7 +16,7 @@ I have always loved TTRPGs and writing. While I find the experience of playing w
 
 What follows is a game of [Home](https://www.deepdark.games/home), a solo/coop RPG from 1 to 4 players where you embody a mech pilot trying to save their home. Over the course of the game you discover the culture and the nations that populate the world by coming up with ideas, rolling on tables and following a simple set of mechanics (see the video for a very quick overview from the creator).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N0L73qd-l-k?si=MjDad4aT4OXW0JEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/N0L73qd-l-k?si=MjDad4aT4OXW0JEI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 I initially wrote my game by hand on a notebook to prevent myself from editing too much what I was doing and having some time off screen. But I enjoyed so much the experience that I thought this would be a great opportunity to re-live the story, make some small tweaks along the way, reflect on the mechanics, and enjoy one of my other hobbies, writing.
 
