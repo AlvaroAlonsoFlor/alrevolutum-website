@@ -6,7 +6,7 @@ tags:
 played-on: notebook
 title: Republic of Dhar - Solo game - 002
 description: Playing Home Mech x Kaiju, a mech solo/coop RPG
-pubDate: 2026-07-13
+pubDate: 2025-07-13
 heroImage: ./home-rpg.png
 ---
 # Republic of Dhar - Solo game - Session 2
