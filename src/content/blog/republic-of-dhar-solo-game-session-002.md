@@ -9,7 +9,6 @@ description: Playing Home Mech x Kaiju, a mech solo/coop RPG
 pubDate: 2025-07-13
 heroImage: ./home-rpg.png
 ---
-# Republic of Dhar - Solo game - Session 2
 
 After our preparation in [the first part](/blog/republic-of-dhar-solo-game-session-001) we move into the first front where we define our preparations made to deal with the _Kaiju_ and the final showdown with the creature when the _Rift_ opens.
 ## Front 1 - The Blockade
