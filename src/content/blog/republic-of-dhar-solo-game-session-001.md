@@ -5,7 +5,7 @@ tags:
   - rpg/home
 played-on: notebook
 title: Republic of Dhar - Solo game - 001
-description: Playing Home Mech x Kaiju, a mech solo/coop RPG
+description: What follows is a game of Home Mech x Kaiju, a solo/coop RPG from 1 to 4 players where you embody a mech pilot trying to save their home. Over the course of the game you discover the culture and the nations that populate the world by coming up with ideas, rolling on tables and following a simple set of mechanics.
 pubDate: 2025-07-04
 heroImage: ./home-rpg.png
 ---

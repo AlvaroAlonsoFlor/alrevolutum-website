@@ -5,7 +5,7 @@ tags:
   - rpg/home
 played-on: notebook
 title: Republic of Dhar - Solo game - 002
-description: Playing Home Mech x Kaiju, a mech solo/coop RPG
+description: Playing Home Mech x Kaiju, a mech solo/coop RPG. After our preparation in the first part we move into the first front where we define our preparations made to deal with the Kaiju and the final showdown with the creature when the Rift opens.
 pubDate: 2025-07-13
 heroImage: ./home-rpg.png
 ---
