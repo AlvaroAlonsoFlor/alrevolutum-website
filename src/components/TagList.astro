@@ -1,0 +1,39 @@
+---
+import { tagToPath } from '../utils/tags';
+
+interface Props {
+	tags: string[];
+}
+
+const { tags } = Astro.props;
+---
+
+<ul class="tags">
+	{tags.map(tag => (
+		<li><a href={tagToPath(tag)}>{tag}</a></li>
+	))}
+</ul>
+
+<style>
+	.tags {
+		display: flex;
+		flex-wrap: wrap;
+		gap: 0.5rem;
+		list-style: none;
+		padding: 0;
+		margin: 0.75rem 0 0;
+	}
+	.tags a {
+		font-size: 0.8rem;
+		padding: 0.2rem 0.6rem;
+		border-radius: 999px;
+		background: rgb(var(--gray-light));
+		color: rgb(var(--gray-dark));
+		text-decoration: none;
+		transition: background 0.2s;
+	}
+	.tags a:hover {
+		background: rgb(var(--accent));
+		color: white;
+	}
+</style>

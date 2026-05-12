@@ -1,0 +1,73 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import { getAllTags, tagToPath } from '../../utils/tags';
+
+const posts = await getCollection('blog');
+const tagMap = getAllTags(posts);
+const tags = Array.from(tagMap.entries()).sort((a, b) => a[0].localeCompare(b[0]));
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title="Tags" description="Browse posts by tag" />
+		<style>
+			main {
+				width: 720px;
+				max-width: calc(100% - 2em);
+				margin: auto;
+				padding: 1em;
+			}
+			h1 {
+				margin-bottom: 1.5rem;
+			}
+			ul {
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.75rem;
+				list-style: none;
+				padding: 0;
+				margin: 0;
+			}
+			a {
+				display: inline-flex;
+				align-items: center;
+				gap: 0.4rem;
+				padding: 0.3rem 0.8rem;
+				border-radius: 999px;
+				background: rgb(var(--gray-light));
+				color: rgb(var(--gray-dark));
+				text-decoration: none;
+				transition: background 0.2s;
+			}
+			a:hover {
+				background: rgb(var(--accent));
+				color: white;
+			}
+			.count {
+				font-size: 0.75rem;
+				opacity: 0.7;
+			}
+		</style>
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>Tags</h1>
+			<ul>
+				{tags.map(([tag, tagPosts]) => (
+					<li>
+						<a href={tagToPath(tag)}>
+							{tag}
+							<span class="count">({tagPosts.length})</span>
+						</a>
+					</li>
+				))}
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
