@@ -4,7 +4,7 @@ tags:
   - ai
 title: Beyond the hype, how can I use AI?
 description: My very initial thoughts on AI and what parts can be useful for me beyond all the noise and marketing.
-pubDate: 2026-05-17
+pubDate: 2026-05-18
 heroImage: ./snake-oil-salesman.jpg
 ---
 AI. The new buzzword, the remedy for all things in the world. We need AI-powered everything, everywhere. That's what the new generation of (dangerously mega rich) snake oil sellers say. Tech bros have poisoned AI with their dirty hands. But can I clean the poison from the blade of this tool, filter through the smoke of marketing and find something valuable that helps me grow as an engineer? This is what I would like to explore further and this post is an attempt to understand where I am in this journey and what I think my next steps are. With all the ranting out of the way (for now), let's get to it.
