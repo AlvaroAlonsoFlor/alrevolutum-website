@@ -21,10 +21,10 @@ const { tags } = Astro.props;
 		gap: 0.5rem;
 		list-style: none;
 		padding: 0;
-		margin: 0.75rem 0 0;
+		margin: 0.75rem;
 	}
 	.tags a {
-		font-size: 0.8rem;
+		font-size: 1rem;
 		padding: 0.2rem 0.6rem;
 		border-radius: 999px;
 		background: rgb(var(--gray-light));
@@ -33,7 +33,7 @@ const { tags } = Astro.props;
 		transition: background 0.2s;
 	}
 	.tags a:hover {
-		background: rgb(var(--accent));
+		background: rgb(var(--gray-dark));
 		color: white;
 	}
 </style>
