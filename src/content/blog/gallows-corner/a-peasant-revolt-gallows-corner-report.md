@@ -2,6 +2,7 @@
 tags:
   - rpg/gming
   - rpg/gallows-corner
+  - rpg
 relates-to:
 played-on: Ancient Robots
 title: "Gallows Corner: A peasant revolt RPG - One shot"

@@ -2,7 +2,7 @@
 tags:
   - rpg/coop
   - rpg/uneasy-lies-the-head
-relates-to:
+  - rpg
 played-at: Home
 title: Uneasy Lies the Head - Three Player Game - Part 1
 description: My experience of playing Uneasy Lies the Head, a cooperative royal court intrigue TTRPG
