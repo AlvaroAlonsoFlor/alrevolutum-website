@@ -2,6 +2,7 @@
 tags:
   - rpg/cairn
   - rpg/gming
+  - rpg
 relates-to:
   - "[[cairn-shadows-in-the-glistening-pine]]"
 played-on: table

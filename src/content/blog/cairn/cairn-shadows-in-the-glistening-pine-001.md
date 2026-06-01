@@ -2,6 +2,7 @@
 tags:
   - rpg/cairn
   - rpg/solo
+  - rpg
 relates-to:
   - "[[cairn-shadows-in-the-glistening-pine]]"
 played-on: notebook

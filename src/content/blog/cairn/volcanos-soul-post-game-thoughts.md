@@ -2,6 +2,7 @@
 tags:
   - rpg/cairn
   - rpg/gming
+  - rpg
 relates-to:
 played-on: Ancient Robots
 title: Cairn 2e - Volcano's Soul - One shot
