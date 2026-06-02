@@ -8,7 +8,11 @@ import cloudflare from '@astrojs/cloudflare';
 export default defineConfig({
   site: 'https://alrevolutum.com',
   integrations: [sitemap()],
+  build: {
+    // hack due to https://github.com/withastro/astro/issues/16919#issuecomment-4601042890
+    client: "./",
+  },
   adapter: cloudflare({
-    imageService: 'compile'
+    imageService: 'compile',
   }),
 });
