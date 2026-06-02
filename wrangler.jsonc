@@ -1,3 +1,13 @@
 {
-  "name": "alrevolutum-website"
+  "name": "alrevolutum-website",
+  "kv_namespaces": [
+    // The @astrojs/cloudflare adapter enables KV-backed sessions by default and
+    // injects this SESSION binding. Wrangler's auto-provisioning would normally
+    // write the namespace id back to the config, but astro build regenerates
+    // dist/wrangler.json on every build, so that write-back is lost and each
+    // deploy tries to recreate the namespace (failing with "already exists" 10014).
+    // Pinning the id here keeps it durable across builds.
+    // `npx wrangler kv namespace list` can be used to check the namespaces
+    { "binding": "SESSION", "id": "5cfe9a13b16c424798f99961beb7a3ae" }
+  ]
 }
