@@ -5,8 +5,9 @@
   "scripts": {
     "dev": "astro dev",
     "dev:cloudflare": "npx astro build && npx wrangler dev",
-    "deploy:cloudflare": "npx astro build && npx wrangler deploy",
-    "deploy:preview": "npx astro build && npx wrangler versions upload",
+    "clean:cache": "rm -rf node_modules/.astro/assets && rm -rf .astro",
+    "deploy:cloudflare": "npm run clean:cache && npx astro build && npx wrangler deploy",
+    "deploy:preview": "npm run clean:cache && npx astro build && npx wrangler versions upload",
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
