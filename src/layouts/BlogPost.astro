@@ -53,6 +53,34 @@ const { title, description, pubDate, updatedDate, heroImage, tags } = Astro.prop
 			.last-updated-on {
 				font-style: italic;
 			}
+			/* Linkable headings: faded link icon revealed on hover */
+			.prose :global(:is(h1, h2, h3, h4, h5, h6):has(> .heading-anchor)) {
+				position: relative;
+			}
+			.prose :global(.heading-anchor) {
+				position: absolute;
+				left: -1.2em;
+				top: 0.15em;
+				display: inline-flex;
+				align-items: center;
+				justify-content: center;
+				width: 0.8em;
+				height: 0.8em;
+				border-radius: 6px;
+				opacity: 0;
+				text-decoration: none;
+				color: rgb(var(--gray));
+				background: rgba(var(--gray), 0.12);
+				transition: opacity 0.15s ease-in-out, background-color 0.15s ease-in-out;
+			}
+			.prose :global(:is(h1, h2, h3, h4, h5, h6):hover .heading-anchor),
+			.prose :global(.heading-anchor:focus) {
+				opacity: 1;
+			}
+			.prose :global(.heading-anchor:hover) {
+				background: rgba(var(--gray), 0.22);
+				color: rgb(var(--gray-dark));
+			}
 		</style>
 	</head>
 
