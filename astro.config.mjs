@@ -4,6 +4,7 @@ import sitemap from '@astrojs/sitemap';
 import { rehypeHeadingIds, unified } from '@astrojs/markdown-remark';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import cloudflare from '@astrojs/cloudflare';
+import { remarkReadingTime } from './src/utils/remark-reading-time';
 
 const linkIcon = {
   type: 'element',
@@ -42,6 +43,7 @@ export default defineConfig({
   integrations: [sitemap()],
   markdown: {
     processor: unified({
+      remarkPlugins: [remarkReadingTime],
       rehypePlugins: [
         rehypeHeadingIds,
         [
