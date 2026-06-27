@@ -7,9 +7,9 @@ import FormattedDate from '../components/FormattedDate.astro';
 import TagList from '../components/TagList.astro';
 import { Image } from 'astro:assets';
 
-type Props = CollectionEntry<'blog'>['data'];
+type Props = CollectionEntry<'blog'>['data'] & { minutesRead?: string };
 
-const { title, description, pubDate, updatedDate, heroImage, tags } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, tags, minutesRead } = Astro.props;
 ---
 
 <html lang="en">
@@ -53,6 +53,9 @@ const { title, description, pubDate, updatedDate, heroImage, tags } = Astro.prop
 			.last-updated-on {
 				font-style: italic;
 			}
+			.reading-time {
+				color: rgb(var(--gray));
+			}
 			/* Linkable headings: faded link icon revealed on hover */
 			.prose :global(:is(h1, h2, h3, h4, h5, h6):has(> .heading-anchor)) {
 				position: relative;
@@ -95,6 +98,7 @@ const { title, description, pubDate, updatedDate, heroImage, tags } = Astro.prop
 					<div class="title">
 						<div class="date">
 							<FormattedDate date={pubDate} />
+							{minutesRead && <span class="reading-time">· {minutesRead}</span>}
 							{
 								updatedDate && (
 									<div class="last-updated-on">
