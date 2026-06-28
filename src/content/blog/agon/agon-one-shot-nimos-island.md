@@ -8,6 +8,7 @@ title: Agon One Shot - The Island of Nimos
 description: What follows is a summary and thoughts of my first time running Agon in Ancient Robots. Domon, Helykos, Phaidros, Eklaios and Disala fight the perils of the island of Nimos and the chthonic entities that lie underneath.
 pubDate: 2026-06-27
 heroImage: ./agon-python.png
+updatedDate: 2026-06-28
 ---
 What follows is a summary and thoughts of my first time running [Agon](https://evilhat.com/product/agon/) in [Ancient Robots](https://www.ancientrobotgames.co.uk/). Domon, Helykos, Phaidros, Eklaios and Disala fight the perils of the island of Nimos and the chthonic entities that lie underneath.
 
@@ -17,8 +18,8 @@ What follows is a summary and thoughts of my first time running [Agon](https://e
 > _The heroes_:
 > 	- _Loud Roaring Domon, scion of Kythia who honours Demeter_
 > 	- _Ashened Faced Helykos, scion of the Cursed King [Lycaon](https://en.wikipedia.org/wiki/Lycaon_(king_of_Arcadia)) who honours Artemis_
-> 	- _Phaidros, scion of Hermes_
-> 	- _Eklaios who honours Dionysus_
+> 	- _Clever Eyed Phaidros, scion of Hermes who honours Hera_
+> 	- _Many Wayed Eklaios, scion of Kleon who honours Dionysus_
 > 	- _Silver Tongued Disala who honours Hades_
 
 
@@ -31,7 +32,7 @@ The heroes dock and are received by the guards, their ship recognised for its ex
 Presiding over the outskirts of the city there is a hill with a massive palace overlooking its domains. Black flags wave mournfully, darkening the vivid oceanic colours of the palace's walls and pillars.
 
 ![Knossos palace](knossos-palace-001.png)
-_Imagine the Knossos Palace but with blue pillars_
+_Imagine the [Knossos](https://en.wikipedia.org/wiki/Knossos) Palace but with blue pillars_
 
 ### The funeral
 
@@ -51,7 +52,7 @@ At that moment the guards bring Phaidros dropping him on the floor in front of t
 
 'We found this undesirable skulking around taking advantage of your hospitality my queen,' says one of the guards.
 
-The heroes rally around Phaidros as he argues that Hermes himself has entrusted him to warn about the serpent.  The crew was plagued with visions on the way to Nimos and he has now found the symbol of the serpent in the walls of the palace. Silver Tongued Disala lashes out in support making the earth tremble with her voice and calling the name of Hades. King and Queen stare at the priest when the serpent is mentioned and like a cornered animal he starts to run...towards the wall.
+The heroes rally around Phaidros as he argues that Hermes himself has entrusted him to warn about the serpent. The crew was plagued with visions on the way to Nimos and he has now found the symbol of the serpent in the walls of the palace. Silver Tongued Disala lashes out in support making the earth tremble with her voice and calling the name of Hades. King and Queen stare at the priest when the serpent is mentioned and like a cornered animal he starts to run...towards the wall.
 
 A chase ensues, Domon picking up a guard's spear and throwing it menacingly to the priest, Phaidros trying to block the entries, Eklaios trying to encourage the guards and Helykos jumping and trying to tackle the fugitive. And they all fail as Harkon presses a mechanism on the wall, a door opens and leaves everyone in the room gasping.
 
@@ -65,13 +66,13 @@ Back in the throne room of the palace the courtesans have fled and only guards, 
 
 Once the situation is under control they notice the rumbling and the shaking, the chaos and the voices coming from the city.
 
-All the heroes meet again close to the docks where Python crushes small buildings and the people looking for shelter in them. Riding the beast, trying to stay on top of it and holding on to the sword, Phaidros keeps trying to direct it to where it can cause less damage to the city.
+All the heroes meet again close to the docks where Python crushes small buildings and the people looking for shelter in them. Riding the beast, trying to stay on top of it and holding on to the sword, Phaidros keeps trying to direct it to where it can cause less damage to the city. He has managed to climb to the head of the creature and stab it in the eyes.
 
-An epic and bloody battle ensues. Eklaios tries to command the remaining guards but they break loose, so he is left with his sling aiming at the serpent's eyes. Helykos tries to command his bond with the animals using Artemis' blessing but they are weak as (surprise!) it turns out experimenting with elixirs has an impact on wildlife. Phaidros, exhausted from fighting and managing the beast during what only can be described as a wild ride, finally falls off, one of his swords breaking.
+An epic and bloody battle ensues. Even blind, the beast's power is mythical and unmatched. Eklaios tries to command the remaining guards but they break loose, so he is left with his sling aiming at the serpent's bloody eyes. Helykos tries to command his bond with the animals using Artemis' blessing but they are weak as (surprise!) it turns out experimenting with elixirs has an impact on wildlife. Phaidros, exhausted from fighting and managing the beast during what only can be described as a wild ride, finally falls off, one of his swords breaking.
 
-In the heat of the battle Python is driven away from the city towards one of the cliffs, where the beast finally has to face Domon's spear, which draws blood as the beast opens its mouth to bite. The massive head moves to the side in rage, picking up Disala's body as it crunches, snapping like a twig with a cry of pain. But she is a hero, tough as nails, and starts stabbing it in the eyes. Blinded the beast moves towards the cliff and she pleads in an agonising cry to push her with the snake and finish the hideous creature. Domon takes the initiative, helped by the other heroes. Using his spear as a harpoon he embeds it into the side of Python and pushes and pushes, taking the spear back just as it is about to fall.
+In the heat of the battle Python is driven away from the city towards one of the cliffs, where the beast finally has to face Domon's spear, which draws blood as the beast opens its mouth to bite. The massive head moves to the side in rage, picking up Disala's body as it crunches, snapping like a twig with a cry of pain. But she is a hero, tough as nails, and starts stabbing it in the neck. The beast moves towards the cliff unaware and Disala pleads in an agonising cry to push her with the snake and finish the hideous creature. Domon takes the initiative, helped by the other heroes. Using his spear as a harpoon he embeds it into the side of Python and pushes and pushes, taking the spear back just as it is about to fall.
 
-As Disala and Python fall she opens cuts on the neck of the beast. The wound is big enough that when they hit the sharp rock at the bottom the head of the serpent detaches from the rest of its body, leaving a great green/red stain in the sea as it slowly gets washed by the waves.
+As Disala and Python fall she opens deeper cuts on the neck of the beast. The wound is big enough that when they hit the sharp rock at the bottom the head of the serpent detaches from the rest of its body, leaving a great green/red stain in the sea as it slowly gets washed by the waves.
 
 ![Fighting Python](./agon-fighting-python.png)
 
@@ -88,7 +89,7 @@ On a system level:
 
 As a GM:
 - Less big papers and relying more on index cards was a good improvement compared with other games
-  ![Index cards for the island](./agon-index-cards-nimos)
+  ![Index cards for the island](./agon-nimos-index-cards.png)
 - Pacing was timely for a 3h session, I was either lucky or I am getting better at it!
 - It feels all of the background research I did around mythology and history paid off in painting the island
 	- There were lots of materials and options that didn't get used but I enjoyed telling the players after the game all the other things that were there to explore/uncover. It made the game feel more alive
