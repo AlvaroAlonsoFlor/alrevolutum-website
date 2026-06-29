@@ -5,6 +5,7 @@ import { rehypeHeadingIds, unified } from '@astrojs/markdown-remark';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import cloudflare from '@astrojs/cloudflare';
 import { remarkReadingTime } from './src/utils/remark-reading-time';
+import rehypeMermaid from "rehype-mermaid";
 
 const linkIcon = {
   type: 'element',
@@ -42,10 +43,14 @@ export default defineConfig({
   site: 'https://alrevolutum.com',
   integrations: [sitemap()],
   markdown: {
+    syntaxHighlight: {
+      excludeLangs: ['mermaid']
+    },
     processor: unified({
       remarkPlugins: [remarkReadingTime],
       rehypePlugins: [
         rehypeHeadingIds,
+        [rehypeMermaid, {strategy: 'inline-svg'}],
         [
           rehypeAutolinkHeadings,
           {
