@@ -9,6 +9,7 @@
     "deploy:cloudflare": "npm run clean:cache && npx astro build && npx wrangler deploy",
     "deploy:preview": "npm run clean:cache && npx astro build && npx wrangler versions upload",
     "build": "astro build",
+    "build:ci": "npx playwright install --with-deps chromium && npm run build",
     "preview": "astro preview",
     "astro": "astro",
     "test": "vitest run"
@@ -25,6 +26,7 @@
     "sharp": "0.35.2"
   },
   "devDependencies": {
+    "playwright": "1.61.1",
     "rehype-mermaid": "3.0.0",
     "vitest": "4.1.9",
     "wrangler": "4.105.0"
