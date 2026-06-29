@@ -2,7 +2,7 @@ name: 'Deploy'
 on:
   push:
     branches:
-      - fix/move-build-to-gh-actions # tmp
+      - main
 jobs:
   deploy:
     runs-on: ubuntu-latest
