@@ -9,7 +9,7 @@ description: Taliesyn, Cuno and Wen have an eventful potato festival and head ou
 heroImage: ./stonetop-banner.png
 pubDate: 2026-07-17
 ---
-Taliesyn, Cuno and Wen have an eventful potato festival and head out of Stonetop tracing a threat to the village. This continues the world of Stonetop that we defined in [session 0](/stonetop-session-000-report).
+Taliesyn, Cuno and Wen have an eventful potato festival and head out of Stonetop tracing a threat to the village. This continues the world of Stonetop that we defined in [session 0](/blog/stonetop-session-000-report).
 ## Summary
 
 ### _The first buds of Spring_
