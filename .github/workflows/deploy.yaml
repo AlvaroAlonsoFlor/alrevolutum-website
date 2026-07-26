@@ -18,7 +18,7 @@ jobs:
       - name: 'Install Deps'
         run: npm ci
       - name: 'Build'
-        run: npm run build:ci
+        run: npm run build
       - name: 'Deploy to Cloudflare'
         run: npx wrangler deploy
         env:
