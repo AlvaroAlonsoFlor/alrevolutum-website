@@ -9,7 +9,6 @@
     "deploy:cloudflare": "npm run clean:cache && npx astro build && npx wrangler deploy",
     "deploy:preview": "npm run clean:cache && npx astro build && npx wrangler versions upload",
     "build": "astro build",
-    "build:ci": "npx playwright install --with-deps chromium && npm run build",
     "preview": "astro preview",
     "astro": "astro",
     "test": "vitest run",
