@@ -12,7 +12,8 @@
     "build:ci": "npx playwright install --with-deps chromium && npm run build",
     "preview": "astro preview",
     "astro": "astro",
-    "test": "vitest run"
+    "test": "vitest run",
+    "postinstall": "playwright install chromium"
   },
   "dependencies": {
     "@astrojs/cloudflare": "14.1.4",
