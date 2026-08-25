@@ -7,6 +7,7 @@ title: Stonetop - Session 3 - The Sorcerer
 description: Taliesyn, Cuno and Wen run into the forest, decide to ambush the crinwin, and learn about a new threat.
 heroImage: ./stonetop-banner.png
 pubDate: 2026-08-23
+updatedDate: 2026-08-25
 ---
 Taliesyn, Cuno and Wen run into the forest (read the session 2 recap [here](/blog/stonetop-session-002-report/)), decide to ambush the crinwin, and learn about a new threat.
 
@@ -64,12 +65,12 @@ Cuno livens the spirits with some singing and tests the edge of the marsh while 
 
 > This was great worldbuilding driven directly by the players. I observed, delighted, and noted down that new detail about the Mantle!
 
-![A handcrafted map for the encounter](./stonetop-battle-in-the-marsh-001.png)
-_I reused some leftover map paper from the [Mothership game that I ran recently](/blog/mothership-galactica-journey-to-paradise-001/)._ 
-
 Wen snaps out of it when Cuno's singing abruptly stops. Four bulky crinwin lock eyes on _The Lightbearer_ and _The Mantle_, which whispers pleading for souls.
 
 The skirmish is messy but effective. Cuno ends up battered and covered in mud after almost drowning, but they trap a crinwin and kill the rest. They tie the creature to a knotty willow and begin the interrogation with the last breath of daylight.
+
+![A handcrafted map for the encounter](./stonetop-battle-in-the-marsh-001.png)
+_I reused some leftover map paper from the [Mothership game that I ran recently](/blog/mothership-galactica-journey-to-paradise-001/)._ 
 
 The Lightbearer draws on the strength of the hiding sun, cups his hands around a flaming candle and chants soothing words to the creature. The crinwin spits at Cuno's face, then looks down as the blood flowing from his cuts, with its characteristic sparkle of blue, seems to solidify. He grumbles something that Taliesyn is too far away to understand.
 
