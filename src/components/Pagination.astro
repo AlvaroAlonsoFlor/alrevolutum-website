@@ -1,0 +1,56 @@
+---
+import type { Page } from 'astro'
+interface Props {
+    page: Page<unknown>;
+}
+const { page } = Astro.props
+---
+
+<style>
+    .pagination {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        gap: 1rem;
+        margin: 2rem 0 0;
+    }
+    .pagination a {
+        padding: 0.5rem 0.8rem;
+        border-radius: 1.5rem;
+        background: rgb(var(--gray-light));
+        color: rgb(var(--gray-dark));
+        text-decoration: none;
+        transition: background 0.2s;
+    }
+    .pagination a:hover {
+        background: rgb(var(--gray-dark));
+        color: white;
+    }
+    .pagination .disabled {
+        padding: 0.4rem 0.9rem;
+        color: rgb(var(--gray));
+        opacity: 0.5;
+    }
+    .pagination .status {
+        color: rgb(var(--gray));
+        font-variant: small-caps;
+    }
+</style>
+
+{page.lastPage > 1 && (
+<nav class="pagination" aria-label="Blog pages">
+    {page.url.prev ? (
+            <a rel="prev" href={page.url.prev}>← Newer</a>
+    ) : (
+            <span class="disabled">← Newer</span>
+    )}
+
+    <span class="status">Page {page.currentPage} of {page.lastPage}</span>
+
+    {page.url.next ? (
+            <a rel="next" href={page.url.next}>Older →</a>
+    ) : (
+            <span class="disabled">Older →</span>
+    )}
+</nav>
+    )}
