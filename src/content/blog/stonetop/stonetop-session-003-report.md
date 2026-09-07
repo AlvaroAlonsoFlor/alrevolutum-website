@@ -7,7 +7,7 @@ title: Stonetop - Session 3 - The Sorcerer
 description: Taliesyn, Cuno and Wen run into the forest, decide to ambush the crinwin, and learn about a new threat.
 heroImage: ./stonetop-banner.png
 pubDate: 2026-08-23
-updatedDate: 2026-08-25
+updatedDate: 2026-09-07
 ---
 Taliesyn, Cuno and Wen run into the forest (read the session 2 recap [here](/blog/stonetop-session-002-report/)), decide to ambush the crinwin, and learn about a new threat.
 
@@ -48,6 +48,9 @@ Wen steps into a foggy undetermined part of the forest. They walk and see The Ma
 'Do you mean harm to us?' Wen's thought escapes loudly even without leaving their mouth.
 
 'To my enemies, to my prey. I am trapped, cleanse The Maw,' answers the grey bear.
+
+![Mouth of The Forest painted miniature](./mouth-of-the-forest-001.png)
+_07/09/2026: Mouth of The Forest, painted by my humble hand._
 
 ### It's a trap
 
