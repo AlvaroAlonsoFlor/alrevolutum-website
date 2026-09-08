@@ -28,7 +28,7 @@
   "devDependencies": {
     "playwright": "1.62.1",
     "rehype-mermaid": "3.0.0",
-    "vitest": "4.1.11",
+    "vitest": "5.0.0",
     "wrangler": "4.127.1"
   }
 }
