@@ -146,4 +146,4 @@ As part of this session we have already established a few interesting characters
 - Winifred the whisky maker. Maybe she can be somebody with sway in the village?
 
 ![Stonetop village map](./stonetop-village-map-000.png)
-_We got to draw some houses/special possessions on the map_
+_We got to draw some houses/special possessions on the map - Map © Lucie Arnoux_

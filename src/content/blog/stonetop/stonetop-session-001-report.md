@@ -37,7 +37,7 @@ Andras' loud and authoritative voice reaches outside the open doors of the publi
 He walks towards _The Stone_ in the middle of the village, all sorts of runic undecipherable carvings in the uncannily smooth rock, the smell of ozone always stronger here along with the aura of Tor, Slayer of Beasts, God of Rain and Thunder.
 
 ![The Stone](./stonetop-the-stone-001.png)
-_The Stone of Stonetop_
+_The Stone of Stonetop - © Lucie Arnoux_
 
 Gasps as Cuno throws liqueur flasks into The Stone with the aid of a wooden thrower trinket, no doubt the work of Taliesyn The Tinkerer. The flasks smash and drip liquid. And then a flame, as the rock lights up with the echo of more gasps.
 
@@ -122,7 +122,7 @@ As they find a narrower passage Wen and Cuno both hold their breath and touch dr
 Hours of walking follow, creaking of the trees and sounds of night creatures all around the forest while Blodwen and the wolves follow the scent. And then movement in the top of the trees. Taliesyn and Wen catch this but one of the massive crinwin jumps out of the trees and slashes Cuno in the chest before he can react. The face of the creature...it has the same shape as the skull of the Mantle Wraiths. 
 
 ![A crinwin](./stonetop-crinwin-001.png)
-_Crinwin like to jump from the trees, these strange ones seem to be no different_
+_Crinwin like to jump from the trees, these strange ones seem to be no different -  © Lucie Arnoux_
 
 ## Game thoughts
 
@@ -141,4 +141,4 @@ _The table where the magic happened_
 
 ---
 
-Note that all art from the books is the work of [Lucie Arnoux](https://willoe.carbonmade.com/projects/7231383).
+Note that all art from the books is © [Lucie Arnoux](https://willoe.carbonmade.com/projects/7231383).
