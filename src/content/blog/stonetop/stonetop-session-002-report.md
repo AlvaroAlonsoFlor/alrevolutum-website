@@ -89,7 +89,7 @@ Finally they arrive at a clearing to see a group of _butcherbirds_ festering on 
 
 ![A butcherbird](./stonetop-butcherbird-001.png)
 
-_A butcherbird_
+_A butcherbird  - © Lucie Arnoux_
 
 Wen sends the wolves to scare them off and they hold them long enough for them to quickly inspect a half rotten animal with a strong, somehow familiar smell. The top half is missing.
 
@@ -116,4 +116,4 @@ One other thing that I think I am still struggling with is being able to use all
 
 ---
 
-Note that all art from the books is the work of [Lucie Arnoux](https://willoe.carbonmade.com/projects/7231383).
+Note that all art from the books is  © [Lucie Arnoux](https://willoe.carbonmade.com/projects/7231383).
