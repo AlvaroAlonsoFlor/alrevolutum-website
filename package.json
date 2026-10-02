@@ -23,12 +23,12 @@
     "mdast-util-to-string": "4.0.0",
     "reading-time": "1.5.0",
     "rehype-autolink-headings": "7.1.0",
-    "sharp": "0.35.4"
+    "sharp": "0.35.5"
   },
   "devDependencies": {
     "playwright": "1.63.0",
     "rehype-mermaid": "3.0.0",
-    "vitest": "5.0.2",
-    "wrangler": "4.141.0"
+    "vitest": "5.0.3",
+    "wrangler": "4.147.0"
   }
 }
