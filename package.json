@@ -29,6 +29,6 @@
     "playwright": "1.63.0",
     "rehype-mermaid": "3.0.0",
     "vitest": "5.0.2",
-    "wrangler": "4.140.0"
+    "wrangler": "4.141.0"
   }
 }
