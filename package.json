@@ -15,20 +15,20 @@
     "postinstall": "playwright install chromium"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "14.4.6",
-    "@astrojs/markdown-remark": "7.3.6",
+    "@astrojs/cloudflare": "14.4.8",
+    "@astrojs/markdown-remark": "7.3.9",
     "@astrojs/rss": "4.0.19",
-    "@astrojs/sitemap": "3.7.4",
-    "astro": "7.4.7",
+    "@astrojs/sitemap": "3.7.5",
+    "astro": "7.4.12",
     "mdast-util-to-string": "4.0.0",
     "reading-time": "1.5.0",
     "rehype-autolink-headings": "7.1.0",
     "sharp": "0.35.5"
   },
   "devDependencies": {
-    "playwright": "1.65.0",
+    "playwright": "1.65.1",
     "rehype-mermaid": "3.0.0",
     "vitest": "5.1.0",
-    "wrangler": "4.158.0"
+    "wrangler": "4.162.0"
   }
 }
